@@ -1,0 +1,22 @@
+{
+  "name": "dc_machines",
+  "version": "1.0.0",
+  "description": "Dosesnt",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AmirWorkplace/Math.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Syed Amir Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirWorkplace/Math/issues"
+  },
+  "homepage": "https://github.com/AmirWorkplace/Math#readme"
+}
